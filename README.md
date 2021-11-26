@@ -3,6 +3,8 @@
 
 Demo project based on Next.js 12 and react, react-dom 18 to demonstrate the suspense feature use with Next.js.
 
+Full tutorial on how to use it is available on: https://learnjsx.com/category/4/posts/nextjs-suspense
+
 Run the project with
 
 ```bash
